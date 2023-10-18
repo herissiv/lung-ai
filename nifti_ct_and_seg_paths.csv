@@ -1,0 +1,20 @@
+Patient ID,CT NIfTI path,Segmented NIfTI path
+LIDC-IDRI-0017,/home/heris/data/RAW/LIDC-IDRI/LIDC-IDRI-0017/LIDC-IDRI-0017.nii,/home/heris/data/RAW/LIDC-IDRI-segmented/LIDC-IDRI-0017/LIDC-IDRI-0017_seperated.nii
+LIDC-IDRI-0016,/home/heris/data/RAW/LIDC-IDRI/LIDC-IDRI-0016/LIDC-IDRI-0016.nii,/home/heris/data/RAW/LIDC-IDRI-segmented/LIDC-IDRI-0016/LIDC-IDRI-0016_seperated.nii
+LIDC-IDRI-0007,/home/heris/data/RAW/LIDC-IDRI/LIDC-IDRI-0007/LIDC-IDRI-0007.nii,/home/heris/data/RAW/LIDC-IDRI-segmented/LIDC-IDRI-0007/LIDC-IDRI-0007_seperated.nii
+LIDC-IDRI-0013,/home/heris/data/RAW/LIDC-IDRI/LIDC-IDRI-0013/LIDC-IDRI-0013.nii,/home/heris/data/RAW/LIDC-IDRI-segmented/LIDC-IDRI-0013/LIDC-IDRI-0013_seperated.nii
+LIDC-IDRI-0012,/home/heris/data/RAW/LIDC-IDRI/LIDC-IDRI-0012/LIDC-IDRI-0012.nii,/home/heris/data/RAW/LIDC-IDRI-segmented/LIDC-IDRI-0012/LIDC-IDRI-0012_seperated.nii
+LIDC-IDRI-0006,/home/heris/data/RAW/LIDC-IDRI/LIDC-IDRI-0006/LIDC-IDRI-0006.nii,/home/heris/data/RAW/LIDC-IDRI-segmented/LIDC-IDRI-0006/LIDC-IDRI-0006_seperated.nii
+LIDC-IDRI-0014,/home/heris/data/RAW/LIDC-IDRI/LIDC-IDRI-0014/LIDC-IDRI-0014.nii,/home/heris/data/RAW/LIDC-IDRI-segmented/LIDC-IDRI-0014/LIDC-IDRI-0014_seperated.nii
+LIDC-IDRI-0018,/home/heris/data/RAW/LIDC-IDRI/LIDC-IDRI-0018/LIDC-IDRI-0018.nii,/home/heris/data/RAW/LIDC-IDRI-segmented/LIDC-IDRI-0018/LIDC-IDRI-0018_seperated.nii
+LIDC-IDRI-0005,/home/heris/data/RAW/LIDC-IDRI/LIDC-IDRI-0005/LIDC-IDRI-0005.nii,/home/heris/data/RAW/LIDC-IDRI-segmented/LIDC-IDRI-0005/LIDC-IDRI-0005_seperated.nii
+LIDC-IDRI-0001,/home/heris/data/RAW/LIDC-IDRI/LIDC-IDRI-0001/LIDC-IDRI-0001.nii,/home/heris/data/RAW/LIDC-IDRI-segmented/LIDC-IDRI-0001/LIDC-IDRI-0001_seperated.nii
+LIDC-IDRI-0011,/home/heris/data/RAW/LIDC-IDRI/LIDC-IDRI-0011/LIDC-IDRI-0011.nii,/home/heris/data/RAW/LIDC-IDRI-segmented/LIDC-IDRI-0011/LIDC-IDRI-0011_seperated.nii
+LIDC-IDRI-0002,/home/heris/data/RAW/LIDC-IDRI/LIDC-IDRI-0002/LIDC-IDRI-0002.nii,/home/heris/data/RAW/LIDC-IDRI-segmented/LIDC-IDRI-0002/LIDC-IDRI-0002_seperated.nii
+LIDC-IDRI-0015,/home/heris/data/RAW/LIDC-IDRI/LIDC-IDRI-0015/LIDC-IDRI-0015.nii,/home/heris/data/RAW/LIDC-IDRI-segmented/LIDC-IDRI-0015/LIDC-IDRI-0015_seperated.nii
+LIDC-IDRI-0003,/home/heris/data/RAW/LIDC-IDRI/LIDC-IDRI-0003/LIDC-IDRI-0003.nii,/home/heris/data/RAW/LIDC-IDRI-segmented/LIDC-IDRI-0003/LIDC-IDRI-0003_seperated.nii
+LIDC-IDRI-0009,/home/heris/data/RAW/LIDC-IDRI/LIDC-IDRI-0009/LIDC-IDRI-0009.nii,/home/heris/data/RAW/LIDC-IDRI-segmented/LIDC-IDRI-0009/LIDC-IDRI-0009_seperated.nii
+LIDC-IDRI-0010,/home/heris/data/RAW/LIDC-IDRI/LIDC-IDRI-0010/LIDC-IDRI-0010.nii,/home/heris/data/RAW/LIDC-IDRI-segmented/LIDC-IDRI-0010/LIDC-IDRI-0010_seperated.nii
+LIDC-IDRI-0019,/home/heris/data/RAW/LIDC-IDRI/LIDC-IDRI-0019/LIDC-IDRI-0019.nii,/home/heris/data/RAW/LIDC-IDRI-segmented/LIDC-IDRI-0019/LIDC-IDRI-0019_seperated.nii
+LIDC-IDRI-0008,/home/heris/data/RAW/LIDC-IDRI/LIDC-IDRI-0008/LIDC-IDRI-0008.nii,/home/heris/data/RAW/LIDC-IDRI-segmented/LIDC-IDRI-0008/LIDC-IDRI-0008_seperated.nii
+LIDC-IDRI-0004,/home/heris/data/RAW/LIDC-IDRI/LIDC-IDRI-0004/LIDC-IDRI-0004.nii,/home/heris/data/RAW/LIDC-IDRI-segmented/LIDC-IDRI-0004/LIDC-IDRI-0004_seperated.nii
