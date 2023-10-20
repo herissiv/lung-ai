@@ -1,6 +1,5 @@
 Patient ID,CT NIfTI path,Segmented NIfTI path
 LIDC-IDRI-0017,/home/heris/data/RAW/LIDC-IDRI/LIDC-IDRI-0017/LIDC-IDRI-0017.nii,/home/heris/data/RAW/LIDC-IDRI-segmented/LIDC-IDRI-0017/LIDC-IDRI-0017_seperated.nii
-LIDC-IDRI-0016,/home/heris/data/RAW/LIDC-IDRI/LIDC-IDRI-0016/LIDC-IDRI-0016.nii,/home/heris/data/RAW/LIDC-IDRI-segmented/LIDC-IDRI-0016/LIDC-IDRI-0016_seperated.nii
 LIDC-IDRI-0007,/home/heris/data/RAW/LIDC-IDRI/LIDC-IDRI-0007/LIDC-IDRI-0007.nii,/home/heris/data/RAW/LIDC-IDRI-segmented/LIDC-IDRI-0007/LIDC-IDRI-0007_seperated.nii
 LIDC-IDRI-0013,/home/heris/data/RAW/LIDC-IDRI/LIDC-IDRI-0013/LIDC-IDRI-0013.nii,/home/heris/data/RAW/LIDC-IDRI-segmented/LIDC-IDRI-0013/LIDC-IDRI-0013_seperated.nii
 LIDC-IDRI-0012,/home/heris/data/RAW/LIDC-IDRI/LIDC-IDRI-0012/LIDC-IDRI-0012.nii,/home/heris/data/RAW/LIDC-IDRI-segmented/LIDC-IDRI-0012/LIDC-IDRI-0012_seperated.nii
